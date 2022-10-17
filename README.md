@@ -14,3 +14,5 @@ Parte 3 - Generative adversarial network (GAN)
 
 Parte 4 - Recurrent Neural Networks (RNN)
 
+
+Todas las prácticas se dividen en tres partes. Pre-laboratorio donde se comprenden los requisitos necesarios para la realización de las siguientes partes 
