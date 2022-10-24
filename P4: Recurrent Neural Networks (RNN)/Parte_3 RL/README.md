@@ -1,7 +1,7 @@
 
 # Práctica 4 de Deep Learning - Parte 3 RL 
 
-La práctica 4 de Deep Learning - Parte 3 RL, contiene 6 Google Doc. 
+La práctica 4 de Deep Learning - Parte 3 RL, contiene 6 Jupyter Notebook. 
 
 **Carpeta Práctica**
 
