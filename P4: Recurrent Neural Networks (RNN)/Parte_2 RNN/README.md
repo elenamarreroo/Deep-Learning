@@ -2,7 +2,7 @@
 # Práctica 4 de Deep Learning - Parte 2 RNN 
 
 
-La práctica 4 de Deep Learning - Parte 2 RNN, contiene 7 Google Doc. 
+La práctica 4 de Deep Learning - Parte 2 RNN, contiene 7 Jupyter Notebook. 
 
 **Carpeta Práctica**
 
