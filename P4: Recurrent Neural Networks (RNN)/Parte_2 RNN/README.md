@@ -4,11 +4,11 @@
 
 La práctica 4 de Deep Learning - Parte 2 RNN, contiene 7 Jupyter Notebook. 
 
-**Carpeta Práctica**
+**📕Carpeta Práctica**
 
 1.   _Practica4_2_RNN.ipynb_, contiene el prelaboratorio, la primera parte de esta práctica consiste en correr el código y entenderlo. Se muestra la estructura del laboratorio en la que se pretende hacer predicción del valor de un activo financiero de una empresa a partir del valor de los días anteriores de varias compañías. Al final del documento se proponen cuatro ejercicios y un ejercicio extra.
 
-**Carpeta Ejercicios**
+**📗Carpeta Ejercicios**
 
 2.   _Practica4_2_Ej1.ipynb_, plantilla para comentar cada celda del código.
 
@@ -18,11 +18,11 @@ La práctica 4 de Deep Learning - Parte 2 RNN, contiene 7 Jupyter Notebook.
 
 5.   _Practica4_2_Ej4.ipynb_, modelo que use la capa bidireccional.
 
-**Carpeta Extras** 
+**📘Carpeta Extras** 
 
 6.   _Practica4_2_Extra1.ipynb_, (en proceso :construction:)
 ,haz un modelo que incluya 10 activos, intenta seleccionarlos correctamente para poder predecir el valor de google.
 
-**Carpeta mejor modelo y explicación** 
+**📙Carpeta mejor modelo y explicación** 
 
 7.   _Practica4_2.2_mejor.ipynb_, (en proceso :construction:), se planteará una mejora el modelo planteado con una explicación de la información que estamos perdiendo, a partir del ejercicio 3 donde se entiende qué tipo de función de activación utilizar.
