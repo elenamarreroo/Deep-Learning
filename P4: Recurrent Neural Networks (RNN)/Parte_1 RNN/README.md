@@ -1,6 +1,6 @@
 # Práctica 4 de Deep Learning - Parte 1 RNN 
 
-La práctica 4 de Deep Learning - Parte 1 RNN, contiene 5 Jupyter Notebook. 
+La práctica 4 de Deep Learning - Parte 1 RNN, contiene 6 Jupyter Notebook. 
 
 **Carpeta Práctica**
 
