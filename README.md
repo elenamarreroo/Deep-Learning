@@ -30,9 +30,10 @@ Las prácticas de laboratorio permiten asentar los conocimientos estudiados en t
 
 Para mantener un orden para las prácticas, estas se ordenan en carpetas. Estas carpetas están clasificadas en el mismo orden que la dinámica de las prácticas:
 
--	**Carpeta práctica** (_pre-laboratorio + laboratorio_), contiene la información de la práctica con los ejercicios sin resolver. Es una plantilla para que cualquiera que quiera realizar este proyecto tenga la posibilidad de realizarlo sin soluciones. De esta manera puede disfrutar del proceso.
+-	**Carpeta Práctica** (_pre-laboratorio + laboratorio_), contiene la información de la práctica con los ejercicios sin resolver. Es una plantilla para que cualquiera que quiera realizar este proyecto tenga la posibilidad de realizarlo sin soluciones. De esta manera puede disfrutar del proceso.
 
--	**Carpeta ejercicios** (_ejercicios_), en este apartado tenemos la solución de los ejercicios propuestos en el laboratorio
+-	**Carpeta Ejercicios** (_ejercicios_), en este apartado tenemos la solución de los ejercicios propuestos en el laboratorio
+
 -	**Carpeta Extras** (_ejercicios extra_)
 
 En algunos casos se incluye una carpeta adicional llamada Carpeta mejor modelo y explicación. La cual se ha intentado mejorar el modelo propuesto.
