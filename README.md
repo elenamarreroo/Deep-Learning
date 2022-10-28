@@ -38,3 +38,7 @@ Para mantener un orden para las prácticas, estas se ordenan en carpetas. Estas 
 
 En algunos casos se incluye una carpeta adicional llamada Carpeta mejor modelo y explicación. La cual se ha intentado mejorar el modelo propuesto.
 
+## 📄 Licencia 
+
+Este repositorio está bajo la Licencia (GNU General Public License v3.0) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
